@@ -1,0 +1,9 @@
+
+python plot_order_by_start_time.py example.ost
+
+Fields in example.ost
+
+Rank Segment  Length   Start  Write  OSTs
+4004 0        33554432 0.9083 2.1025 1 25 21
+...
+
