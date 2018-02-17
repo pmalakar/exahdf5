@@ -1,0 +1,10 @@
+
+
+for i in preeti_exerciser-new-patch1_id161301_12-21-80907-1056652829569658278_1.darshan.out.ost.*ost.? ; do python plot ${i} ; done
+for i in preeti_exerciser-new-patch1_id161301_12-21-80907-1056652829569658278_1.darshan.out.ost.*ost.?? ; do python plot ${i} ; done
+
+
+for i in preeti_exerciser-new-patch1_id161301_12-21-80907-1056652829569658278_1.darshan.out.ost.? ; do python histo.py ${i} 7 ; done
+for i in preeti_exerciser-new-patch1_id161301_12-21-80907-1056652829569658278_1.darshan.out.ost.?? ; do python histo.py ${i} 7 ; done
+
+
